@@ -1,12 +1,12 @@
 Package: com.rileytestut.Delta
-Version: 1.0.3-1
+Version: 1.0
 Section: Emulators
 Maintainer: xxthepersonx
 Depends: 
 Architecture: iphoneos-arm
 Filename: Files//delta/delta.deb
-Size: 16968028
-MD5sum: a655047c38fa483444491ed892f06c0f
+Size: 16966788
+MD5sum: 6ae2edd1dd267577ff82d951cdbeb117
 Description: Delta Emulator by Rileytestut
 Name: Delta
 Author: Rileytestut
