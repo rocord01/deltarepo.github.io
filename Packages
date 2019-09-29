@@ -6,7 +6,7 @@ Depends:
 Architecture: iphoneos-arm
 Filename: Files//delta/delta.deb
 Size: 16966788
-MD5sum: 6ae2edd1dd267577ff82d951cdbeb117
+MD5sum: fa6bd5b7e2201bc0d771c410cdd03b0f
 Description: Delta Emulator by Rileytestut
 Name: Delta
 Author: Rileytestut
