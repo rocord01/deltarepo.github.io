@@ -1,0 +1,8 @@
+Origin: Delta Repo
+Label: Delta Repo
+Suite: stable
+Version: 1.0
+Codename: deltarepo
+Architectures: iphoneos-arm
+Components: main
+Description: Repo for Delta Emulator

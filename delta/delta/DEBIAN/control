@@ -1,0 +1,9 @@
+Package: com.rileytestut.Delta
+Name: Delta
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Depends:
+Author: Rileytestut
+Section: Emulators
+Description: Delta Emulator by Rileytestut
+Maintainer: xxthepersonx
