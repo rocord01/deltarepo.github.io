@@ -5,8 +5,8 @@ Maintainer: xxthepersonx
 Depends: 
 Architecture: iphoneos-arm
 Filename: Files//delta/delta.deb
-Size: 22897800
-MD5sum: f583bfe2a3d904c138b0111c2009332b
+Size: 16968028
+MD5sum: a655047c38fa483444491ed892f06c0f
 Description: Delta Emulator by Rileytestut
 Name: Delta
 Author: Rileytestut
